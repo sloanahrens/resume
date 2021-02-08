@@ -1,7 +1,7 @@
-##Sloan Ahrens
+## Sloan Ahrens
 sloan.ahrens@gmail.com
 
-###Proficiencies
+### Proficiencies
 - Python programming language, Flask and Django web-development frameworks, Celery asynchronous task processing library
 - JavaScript programming language, largely client-side, some experience with modern frameworks, Vue.js with Bootstrap-Vue
 - SQL and Non-SQL databases, especially PostgreSQL and Elasticsearch
@@ -16,14 +16,14 @@ sloan.ahrens@gmail.com
 - Fast learner, can pick up new tools quickly, lots of experience debugging tough technical problems
 - Excellent technical writer, with an expert grasp of the English language
 
-###Techical Goals
+### Techical Goals
 - Go programming language training and experience
 - Better Bash/Linux command-line skills
 - Kubernetes training and certifications
 - Cloud training and certifications, especially AWS
 - Large, complex CI pipelines, functional testing systems, and data-engineering systems
 
-###Employment/Contracting History Highlights
+### Employment/Contracting History Highlights
 
 - **12/2020 - 1/2021: Emory Solutions**: analyzed complex, technical-debt ridden industrial business logic, built data-reporting application (as a consulting experiment) to mitigate business-process pain.
 -- *Tech: K8s, Docker, AWS, Django, Vue.js*
@@ -45,7 +45,7 @@ sloan.ahrens@gmail.com
 
 - **3/2008 - 6/2009: Mill Creek Software**: trained as a junior “full-stack” developer with Microsoft’s software development tools; worked on several client projects including business management software for a large summer-camp company and a heavy construction blasting company.
 
-###Education:
+### Education:
 
 - Bachelor of Science in Physics, Minor in Computer Science, University of Arkansas -
 Fayetteville, graduated 2005.
