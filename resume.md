@@ -11,12 +11,12 @@ sloan.ahrens@gmail.com
 - Data ETL scripting and automated systems
 - “Joel-test”-pattern software/data engineering systems
 - Experience managing “full-stack” software development projects, debugging systems, putting out deployment fires
-- Experience with Agile/SCRUM, task-management tools like JIRA, source-control and issue-tracking with Github/Gitlab/Bitbucket
+- Experience with Agile/SCRUM, task-management tools like JIRA, source-control/issue-tracking with Github/Gitlab/Bitbucket
 - Basic familiarity with numerous data-science and machine-learning concepts, some experience with related Python libraries
 - Fast learner, can pick up new tools quickly, lots of experience debugging tough technical problems
 - Excellent technical writer, with an expert grasp of the English language
 
-### Techical Goals
+### Technical Goals
 - Go programming language training and experience
 - Better Bash/Linux command-line skills
 - Kubernetes training and certifications
