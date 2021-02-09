@@ -30,6 +30,7 @@ sloan.ahrens@gmail.com
 - Experience managing “full-stack” software development projects, debugging systems, putting out deployment fires.
 - Fast learner, can pick up new tools quickly, lots of experience debugging tough technical problems.
 - Excellent technical writer, with an expert grasp of the English language.
+- Relentless problem-solver -- I am driven to figure out and solve mysterious tech issues.
 
 ### Employment/Contracting History Highlights
 
