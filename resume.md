@@ -41,7 +41,7 @@ sloan.ahrens@gmail.com
 -- *Tech: TravisCI, Terraform, K8s, Docker, AWS, Python, Flask, JavaScript, Vue.js*
 
 - **5/2015 - 3/2019 (with some gaps): Lofty Labs**: built core part of (and touched nearly every aspect of) a complex client-facing machine-learning-as-a-service system, and managed cloud deployments; retail data ingestion pipeline (for retail analyst); massive email corpus ETL and search/flagging system (for legal discovery); cloud migrations; devops upgrades, various small projects.
--- *Tech: CircleCI, Terraform, K8s, Docker, AWS, Python, Flask/Django, JavaScript, Ember.js*
+-- *Tech: CircleCI, Terraform, Ansible, K8s, Docker, AWS (mostly EC2, S3, RDS, VPC, Route53), Python, Flask/Django, JavaScript, Ember.js*
 
 - **7/2012 - 2/2014: StackSearch**: co-founded a “start-up” around data-search functionality add-on for e-commerce websites, attended the Ark Challenge accelerator as a founder, built core tech and early engineering team.
 -- *Tech: Microsoft C#.NET and SQL-Server*
@@ -53,10 +53,14 @@ sloan.ahrens@gmail.com
 -- *Tech: Google App Engine, Django, Python, Early Google-Maps API*
 
 - **3/2008 - 6/2009: Mill Creek Software**: trained as a junior “full-stack” developer with Microsoft’s software development tools; worked on several client projects including business management software for a large summer-camp company and a heavy construction blasting company.
+-- *Tech: Microsoft C#.NET, VB.NET, SQL-Server, Python, Django, PostgreSQL*
 
 ### Education:
 
 - Bachelor of Science in Physics, Minor in Computer Science, University of Arkansas -
 Fayetteville, graduated 2005.
+- Undergraduate job writing PDF homework/test solutions (with LaTeX and Adobe Illustrator) for calculus-based introductory physics classes, used by hundreds of students each semester; deploying and managing (very simple) class website.
+- Worked toward (but did not complete) Master of Science in Physics at UA.
+- Taught four semesters of lab courses for calculus-based introductory physics classes, including lab setup, some lecturing, lots of problem-solving, lots of helping students with homework problems.
 - Conducted research involving the numerical calculation of fully relativistic gravitational
 radiation signatures, coded in MATLAB, C and Fortran.
