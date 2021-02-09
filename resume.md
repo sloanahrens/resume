@@ -3,7 +3,7 @@ sloan.ahrens@gmail.com
 
 #### Professional Goals
 - Solving interesting business problems at scale with data-engineering cloud-software solutions.
-- Building holistic “Joel-test”-pattern software/data engineering systems, development-patterns and DevOps principles to ensure business process stability and reliability, and minimize stress.
+- Implementing holistic “Joel-test”-pattern software/data engineering systems, development-patterns and DevOps principles to ensure business process stability and reliability, and minimize stress.
 - Constantly improving skills, learning new tools and patterns, following the evolution of Internet technologies.
 
 #### Software/Data Engineering Deliverables
