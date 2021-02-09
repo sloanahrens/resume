@@ -1,27 +1,35 @@
 ## Sloan Ahrens
 sloan.ahrens@gmail.com
 
-### Proficiencies
-- Python programming language, Flask and Django web-development frameworks, Celery asynchronous task processing library
-- JavaScript programming language, largely client-side, some experience with modern frameworks, Vue.js with Bootstrap-Vue
+#### Professional Goals
+- Solving interesting business problems at scale with data-engineering cloud-software solutions.
+- Building holistic “Joel-test”-pattern software/data engineering systems, development-patterns and DevOps principles to ensure business process stability and reliability, and minimize stress.
+- Constantly improving skills, learning new tools and patterns, following the evolution of Internet technologies.
+
+#### Software/Data Engineering Deliverables
+- data ETL pipelines, with scripted automation and testing
+- data-driven web applications presenting RESTful APIs
+- modern reactive UI front-ends consuming back-end APIs and managing tasks
+- asynchronous/scheduled data task-processing for data ETL, report generation, heavy computation
+- scripted, fully automated, source-control-driven QA-testing pipeline that finds problems before deployment
+- automated code-deployments and updates, with monitoring, logs, failover and rollback
+- fast debugging of problems, learn from the error and write a test around it
+- all infrastructure and scripted processes exist as code in source-control, infrastructure can be rebuilt quickly from code
+- automated snapshots and backups of important data, with regional data-center failover
+
+#### Tool Proficiencies
+- Python programming language, especially using Flask, Django and Celery library families
+- Client-side JavaScript UI programming, most recently with Vue.js and Bootstrap-Vue
 - SQL and Non-SQL databases, especially PostgreSQL and Elasticsearch
 - DevOps tools including: Docker, Kubernetes, Terraform, AWS
-- DevOps principles including: Infrastructure-as-code + Source-control + Automated testing + Microservices + Containerization + Orchestration + Cloud + Monitoring + CI/CD
-- Blue/green deployment patterns, automated/continuous deployment, rollback, failover, data management, cloud migrations
-- Data ETL scripting and automated systems
-- “Joel-test”-pattern software/data engineering systems
-- Experience managing “full-stack” software development projects, debugging systems, putting out deployment fires
+- Joel-friendly code-base and DevOps organization, including: Infrastructure-as-code + Source-control + Automated testing + Microservices + Containerization + Orchestration + Cloud + Monitoring + CI/CD
 - Experience with Agile/SCRUM, task-management tools like JIRA, source-control/issue-tracking with Github/Gitlab/Bitbucket
 - Basic familiarity with numerous data-science and machine-learning concepts, some experience with related Python libraries
-- Fast learner, can pick up new tools quickly, lots of experience debugging tough technical problems
-- Excellent technical writer, with an expert grasp of the English language
 
-### Technical Goals
-- Go programming language training and experience
-- Better Bash/Linux command-line skills
-- Kubernetes training and certifications
-- Cloud training and certifications, especially AWS
-- Large, complex CI pipelines, functional testing systems, and data-engineering systems
+#### General Qualities
+- Experience managing “full-stack” software development projects, debugging systems, putting out deployment fires.
+- Fast learner, can pick up new tools quickly, lots of experience debugging tough technical problems.
+- Excellent technical writer, with an expert grasp of the English language.
 
 ### Employment/Contracting History Highlights
 
