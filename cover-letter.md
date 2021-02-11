@@ -6,8 +6,8 @@
 - Large, complex CI pipelines, functional testing systems, and data-engineering systems
 
 ### Compensation Requirements for a Mid-level role
-- Minimum $100k salary with reasonable benefits
-- Minimum $100/hr as 1099 contractor
+- Minimum $120k salary with reasonable benefits
+- Minimum $120/hr as 1099 contractor
 
 ### Compensation Requirements for a Senior-level role
 - Minimum $150k salary with reasonable benefits

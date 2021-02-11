@@ -32,7 +32,7 @@ sloan.ahrens@gmail.com
 - Excellent technical writer, with an expert grasp of the English language.
 - Relentless problem-solver -- I am driven to figure out and solve mysterious tech issues.
 
-### Employment/Contracting History Highlights
+#### Employment/Contracting History Highlights
 
 - **12/2020 - 1/2021: Emory Solutions**: analyzed complex, technical-debt ridden industrial business logic, built data-reporting application (as a consulting experiment) to mitigate business-process pain.
 -- *Tech: K8s, Docker, AWS, Django, Vue.js*
@@ -55,7 +55,7 @@ sloan.ahrens@gmail.com
 - **3/2008 - 6/2009: Mill Creek Software**: trained as a junior “full-stack” developer with Microsoft’s software development tools; worked on several client projects including business management software for a large summer-camp company and a heavy construction blasting company.
 -- *Tech: Microsoft C#.NET, VB.NET, SQL-Server, Python, Django, PostgreSQL*
 
-### Education:
+#### Education
 
 - Bachelor of Science in Physics, Minor in Computer Science, University of Arkansas -
 Fayetteville, graduated 2005.
