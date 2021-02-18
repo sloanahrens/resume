@@ -14,6 +14,7 @@
 - I do have experience with Python, Django, Celery, Redis, RabbitMQ, PostgreSQL, Elasticsearch, vanilla JavaScript, and Vue.js (with the Bootstrap-Vue plugin), so if those tools are used in the tech-stack that's a bonus because it will be easier for me to interact with. It's probably not essential, though, since the DevOps work might be only loosely connected to all that.
 - I would like to get some experience with the Go programming language, one of these days, so bonus points if there's a chance for that.
 - I want to work on interesting, innovative products. Green-field projects are definitely a plus.
+- Here is a GitHub repo showcasing some of my skills: https://github.com/sloanahrens/devops-toolkit
 
 ### Technical Goals
 - Go programming language training and experience, if feasible.

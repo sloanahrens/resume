@@ -25,6 +25,7 @@ sloan.ahrens@gmail.com
 - Joel-friendly code-base and DevOps organization, including: Infrastructure-as-code + Source-control + Automated testing + Microservices + Containerization + Orchestration + Cloud + Monitoring + CI/CD
 - Experience with Agile/SCRUM, task-management tools like JIRA, source-control/issue-tracking with Github/Gitlab/Bitbucket
 - Basic familiarity with numerous data-science and machine-learning concepts, some experience with related Python libraries
+- Here is a GitHub repo showcasing some of my skills: https://github.com/sloanahrens/devops-toolkit
 
 #### General Qualities
 - Experience managing “full-stack” software development projects, debugging systems, putting out deployment fires.
