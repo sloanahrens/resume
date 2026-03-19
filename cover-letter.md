@@ -1,35 +1,17 @@
-### Job-search Goals
-- An environment organized such that it more-or-less passes the Joel Test (https://blog.hubspot.com/service/joel-test).
-- Linux environment is much preferred.
-- A software system that leverages the microservices + containerization + orchestration paradigm, as well as CI/CD.
-- Remote only. I'm happy to go on-site for a meeting with management or clients here and there if needed (even if it requires traveling), but I want to primarily work from home, even after covid.
-- I would like to improve my skills with Kubernetes, if possible, preferably by working with other DevOps engineers.
-- I would prefer to work in AWS over Azure or Google, because all my experience is in AWS--but it isn't a deal-breaker if everything else is right.
-- I have experience with Terraform, and I would also like to get better with that, so bonus points if they are using it (it's pretty common).
-- I don't have Jenkins experience but I think I can pick it up pretty quickly if I need to. I've used CircleCI and TravisCI, but I could pick up any hosted CI/CD platform quickly (GitHub seems like a good one).
-- I have experience writing bash scripts for automated testing, and I can use Python for scripting as well.
-- I have experience with Python, Django, Celery, Redis, RabbitMQ, PostgreSQL, Elasticsearch, vanilla JavaScript, and Vue.js (with the Bootstrap-Vue plugin), so if those tools are used in the tech-stack that's a bonus because it will be easier for me to interact with it.
-- I would like to get some experience with the Go programming language, one of these days, so bonus points if there's a chance for that.
-- I want to work on interesting, innovative products. Green-field projects are definitely a plus.
-- Here is a GitHub repo showcasing some of my skills: https://github.com/sloanahrens/devops-toolkit
+## Sloan Ahrens
 
-### Technical Goals
-- Go programming language training and experience, if feasible.
-- Better Bash/Linux command-line skills.
-- Kubernetes experience, training and possibly certifications.
-- Cloud training and possibly certifications, preferably AWS.
-- Large, complex CI pipelines, functional testing systems, and data-engineering systems.
-- Working as part of a larger team of engineers.
+sloan.ahrens@gmail.com | [github.com/sloanahrens](https://github.com/sloanahrens) | [linkedin.com/in/sloanahrens](https://www.linkedin.com/in/sloanahrens/)
 
-### Minimum Compensation Requirements
-- Minimum $100k salary with reasonable benefits
-- Minimum $100/hr as 1099 contractor
+---
 
-### Desired Compensation
-- Minimum $150k salary with reasonable benefits
-- Minimum $150/hr as 1099 contractor
+I build financial services platforms — the infrastructure that credit unions and community banks rely on to connect with Plaid, process payments, aggregate accounts, and meet regulatory requirements. My current work involves designing and maintaining multi-tenant API platforms with envelope encryption, OAuth-based authentication, and compliance mappings to FFIEC, SOC 2, GLBA, and PCI-DSS frameworks.
 
-### Links
-- LinkedIn: https://www.linkedin.com/in/sloanahrens/
-- GitHub: https://github.com/sloanahrens
-- StackOverflow: https://stackoverflow.com/users/2551686/sloan-ahrens
+What distinguishes my recent work is the integration of AI into the development process itself. I've built a spec-first development workflow where specification documents — testable requirements in Given/When/Then format, with traceability to regulatory controls — are written and reviewed before any code. AI agents then implement against the approved spec, with CI-triggered drift detection that catches when code diverges from documented behavior. This approach produces auditable, compliance-ready systems by construction rather than after-the-fact review.
+
+I also design the tooling that supports this: git-backed issue tracking with dependency graphs, multi-agent orchestration with structured handoff protocols, and automated delivery health metrics. The result is faster delivery with better traceability than traditional workflows.
+
+Before this, I spent a decade building data pipelines, cloud infrastructure, and full-stack applications — Python/Django, Kubernetes, Terraform, AWS — across domains from machine learning platforms to legal discovery systems to retail analytics. I took a writing sabbatical from 2021 to 2025 to study physics and mathematics, and returned to engineering with a sharper systems perspective and a deep interest in how AI can transform software delivery.
+
+I studied physics at the University of Arkansas, where I also taught introductory physics labs and conducted research in numerical relativity. The habits of that training — rigor, clear writing, comfort with formal systems — shape how I approach software engineering. I think in terms of system boundaries, invariants, and measurable outcomes.
+
+I'm looking for work where the engineering matters — where the systems are complex enough to reward careful design, where compliance and security are first-class concerns, and where there's appetite for using AI to improve how software gets built, not just what it does.
