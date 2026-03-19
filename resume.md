@@ -46,7 +46,7 @@ Build and maintain financial services platforms serving credit unions and commun
 #### Writing Sabbatical
 *2021 – 2025*
 
-Independent study in physics, mathematics, and machine learning.
+Independent study in physics, mathematics, computer science, and machine learning.
 
 #### Contract Software Engineer — Emory Solutions
 *December 2020 – January 2021*

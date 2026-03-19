@@ -36,7 +36,7 @@ Trabian is a software consultancy specializing in financial technology for credi
 ### Writing Sabbatical
 *2021 – 2025*
 
-Independent study in physics, mathematics, and machine learning.
+Independent study in physics, mathematics, computer science, and machine learning.
 
 ---
 
