@@ -18,7 +18,7 @@ Platform engineer building secure financial services infrastructure for credit u
 
 **Security & Compliance**: OAuth 2.0/OIDC (Zitadel), JWT validation, envelope encryption (AES-256-GCM + RSA-2048), FFIEC, SOC 2, GLBA, PCI-DSS compliance frameworks
 
-**Financial Services Integrations**: Plaid (Link, Auth, Transactions, Identity, Item management), Q2/Fiserv/SymXchange/jXchange core banking adapters, payment processing, account aggregation
+**Financial Services Integrations**: Plaid (Link, Auth, Transactions, Identity, Item management, processor tokens), payment processing, account aggregation, familiarity with Q2/Fiserv/SymXchange/jXchange core banking ecosystems
 
 **AI-Augmented Development**: Claude Code agent orchestration, spec-first development workflows, CI-integrated code review, automated drift detection, issue tracking integration (Linear + git-backed), multi-agent parallelization
 
@@ -37,7 +37,7 @@ Build and maintain financial services platforms serving credit unions and commun
 - Architect and implement Plaid integration services: token management, account aggregation, transaction sync, processor token lifecycle, webhook handling
 - Build secure API layers with OAuth 2.0 authentication, scope-based authorization, and envelope encryption for sensitive financial data
 - Design infrastructure as code with Pulumi (TypeScript) deploying to AWS and Azure, including ECS services, Azure Functions, managed databases, and CDN/WAF configurations
-- Implement core banking adapters for Q2, Fiserv, SymXchange, and jXchange platforms
+- Build Plaid token management services handling the full item lifecycle across multiple financial institution clients, integrating with a platform that connects to Q2, Fiserv, SymXchange, and jXchange core banking systems
 - Design durable workflow orchestration with Temporal: multi-step financial operations with encrypted payloads, retry policies, and observability; daily ETL pipelines for data aggregation and warehouse delivery
 
 **Security & Compliance**

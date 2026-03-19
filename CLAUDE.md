@@ -36,7 +36,7 @@ For reference when tailoring the resume for specific roles:
 
 | Domain | Technologies | Depth |
 |--------|-------------|-------|
-| **Financial services APIs** | Plaid, Q2/Fiserv adapters, payment processing | Deep — primary work |
+| **Financial services APIs** | Plaid (deep), Q2/Fiserv ecosystem (familiarity), payment processing | Deep on Plaid, awareness of core banking |
 | **Cloud infrastructure** | Pulumi (TS), AWS, Azure, ECS, Azure Functions | Deep — daily use |
 | **Security/crypto** | OAuth 2.0/OIDC, envelope encryption, JWT/JWKS | Deep — designed the systems |
 | **Compliance** | FFIEC, SOC 2, GLBA, PCI-DSS, MkDocs spec vaults | Deep — wrote the specs |

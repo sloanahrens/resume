@@ -3,12 +3,12 @@
 ### Trabian — Senior Platform Engineer
 *December 2025 – Present*
 
-Trabian is a software consultancy specializing in financial technology for credit unions and community banks. I build and maintain the cloud platforms that power financial integrations — Plaid connectivity, core banking adapters, payment processing, and account aggregation — for multiple financial institution clients.
+Trabian is a software consultancy specializing in financial technology for credit unions and community banks. I build and maintain Plaid integration platforms — token management, account aggregation, payment processing — for multiple financial institution clients, operating within a broader ecosystem that connects to core banking systems.
 
 **Platform Architecture**
 - Multi-tenant API platforms serving financial institution clients, each with isolated data, credentials, and configuration
 - Plaid integration services covering the full lifecycle: Link token creation, public token exchange, account aggregation, transaction sync, processor token management, identity verification, and webhook handling
-- Core banking adapters for Q2 (Fiserv, SymXchange, jXchange) enabling real-time account queries, transaction posting, and member management
+- Plaid token management services handling the full item lifecycle (link creation, token exchange, account sync, processor tokens, revocation) for multiple financial institution clients, operating within a broader platform that connects to Q2, Fiserv, SymXchange, and jXchange core banking systems
 - Temporal workflow orchestration for durable, multi-step financial operations: daily ETL pipelines extracting data from Plaid and core banking systems, reporting aggregation across partners, and data warehouse delivery via S3/Snowpipe. Workflows use encrypted payloads (codec server), configurable retry policies, and structured activity logging for auditability
 
 **Infrastructure & Security**
