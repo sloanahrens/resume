@@ -6,7 +6,7 @@ sloan.ahrens@gmail.com | [github.com/sloanahrens](https://github.com/sloanahrens
 
 ### Summary
 
-Platform engineer building secure financial services infrastructure for credit unions and community banks — Plaid integrations, payment processing, account aggregation — with infrastructure as code on AWS and Azure. I also design AI-assisted development pipelines where LLM agents work from approved specifications, with CI-triggered drift detection and automated code review, improving both delivery velocity and audit readiness. Physics background; systems thinker; clear technical writer.
+Platform engineer building secure financial services infrastructure for credit unions and community banks — Plaid integrations, payment processing, account aggregation — with infrastructure as code on AWS and Azure. I also design AI-assisted development pipelines where LLM agents work from approved specifications, with CI-triggered drift detection and automated code review, improving both delivery velocity and audit readiness. Physics background; systems thinker; clear technical writer. Skilled at directing AI for substantive intellectual work — not just code generation, but mathematical modeling, formal specification, and technical analysis.
 
 ---
 
