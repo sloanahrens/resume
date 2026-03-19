@@ -43,7 +43,7 @@ For reference when tailoring the resume for specific roles:
 | **AI development tooling** | Claude Code, agent orchestration, spec-first workflow | Deep — designed the workflow |
 | **Backend** | TypeScript/Node.js, Go, Python, Django, Flask | Deep (TS/Go current, Python historical) |
 | **Databases** | PostgreSQL, MongoDB Atlas, MSSQL, Elasticsearch | Moderate-deep |
-| **Workflow orchestration** | Temporal, Celery, Dagster | Moderate |
+| **Workflow orchestration** | Temporal (current), Celery, Dagster | Deep (Temporal), historical (Celery) |
 | **Frontend** | Vue.js, React (limited), Ember.js (historical) | Light — not current focus |
 | **DevOps** | Docker, Kubernetes, Terraform, CI/CD | Moderate — shifted to Pulumi |
 | **Data analysis** | DuckDB, Python data libraries, SQL analytics | Moderate |

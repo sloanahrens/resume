@@ -9,7 +9,7 @@ Trabian is a software consultancy specializing in financial technology for credi
 - Multi-tenant API platforms serving financial institution clients, each with isolated data, credentials, and configuration
 - Plaid integration services covering the full lifecycle: Link token creation, public token exchange, account aggregation, transaction sync, processor token management, identity verification, and webhook handling
 - Core banking adapters for Q2 (Fiserv, SymXchange, jXchange) enabling real-time account queries, transaction posting, and member management
-- Temporal workflow orchestration for multi-step financial operations: daily ETL pipelines, reporting aggregation, and data warehouse delivery
+- Temporal workflow orchestration for durable, multi-step financial operations: daily ETL pipelines extracting data from Plaid and core banking systems, reporting aggregation across partners, and data warehouse delivery via S3/Snowpipe. Workflows use encrypted payloads (codec server), configurable retry policies, and structured activity logging for auditability
 
 **Infrastructure & Security**
 - Infrastructure as code with Pulumi (TypeScript) deploying across AWS and Azure: ECS Fargate services, Azure Functions, MongoDB Atlas, PostgreSQL, MSSQL, CDN/WAF, managed secrets

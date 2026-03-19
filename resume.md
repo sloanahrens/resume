@@ -38,7 +38,7 @@ Build and maintain financial services platforms serving credit unions and commun
 - Build secure API layers with OAuth 2.0 authentication, scope-based authorization, and envelope encryption for sensitive financial data
 - Design infrastructure as code with Pulumi (TypeScript) deploying to AWS and Azure, including ECS services, Azure Functions, managed databases, and CDN/WAF configurations
 - Implement core banking adapters for Q2, Fiserv, SymXchange, and jXchange platforms
-- Build workflow orchestration with Temporal for ETL pipelines, reporting, and multi-step financial operations
+- Design durable workflow orchestration with Temporal: multi-step financial operations with encrypted payloads, retry policies, and observability; daily ETL pipelines for data aggregation and warehouse delivery
 
 **Security & Compliance**
 - Implement encryption at rest and in transit with envelope encryption patterns (AES-256-GCM data keys wrapped by RSA-2048 key encryption keys)
