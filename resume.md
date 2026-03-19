@@ -20,9 +20,7 @@ Platform engineer building secure financial services infrastructure for credit u
 
 **Financial Services Integrations**: Plaid (Link, Auth, Transactions, Identity, Item management, processor tokens), payment processing, account aggregation, familiarity with Q2/Fiserv/SymXchange/jXchange core banking ecosystems
 
-**AI-Augmented Development**: Claude Code agent orchestration, spec-first development workflows, CI-integrated code review, automated drift detection, issue tracking integration (Linear + git-backed), multi-agent parallelization
-
-**Process & Tooling**: Git-backed issue tracking with dependency graphs, DuckDB analytics on development data, MkDocs specification vaults, automated delivery health metrics, story point estimation from spec requirements
+**AI-Augmented Development & Tooling**: Spec-first development workflows, CI-integrated code review, automated drift detection, Claude Code agent orchestration, git-backed issue tracking with dependency graphs, Linear integration, DuckDB analytics on development data
 
 ---
 
@@ -34,23 +32,16 @@ Platform engineer building secure financial services infrastructure for credit u
 Build and maintain financial services platforms serving credit unions and community banks. Work spans the full stack from infrastructure provisioning to API development to developer tooling.
 
 **Platform Engineering**
-- Architect and implement Plaid integration services: token management, account aggregation, transaction sync, processor token lifecycle, webhook handling
-- Build secure API layers with OAuth 2.0 authentication, scope-based authorization, and envelope encryption for sensitive financial data
-- Design infrastructure as code with Pulumi (TypeScript) deploying to AWS and Azure, including ECS services, Azure Functions, managed databases, and CDN/WAF configurations
-- Build Plaid token management services handling the full item lifecycle across multiple financial institution clients, integrating with a platform that connects to Q2, Fiserv, SymXchange, and jXchange core banking systems
-- Design durable workflow orchestration with Temporal: multi-step financial operations with encrypted payloads, retry policies, and observability; daily ETL pipelines for data aggregation and warehouse delivery
+- Build Plaid token management services handling the full item lifecycle — link creation, token exchange, account sync, processor tokens, revocation — for multiple financial institution clients
+- Design infrastructure as code with Pulumi (TypeScript) deploying to AWS and Azure, with envelope encryption for sensitive financial data and OAuth 2.0 scope-based authorization
+- Design durable workflow orchestration with Temporal: encrypted payloads, retry policies, ETL pipelines for data aggregation and warehouse delivery
 
 **Security & Compliance**
-- Implement encryption at rest and in transit with envelope encryption patterns (AES-256-GCM data keys wrapped by RSA-2048 key encryption keys)
-- Build comprehensive specification vaults (MkDocs) with 130+ testable requirements mapped to FFIEC, SOC 2, GLBA, and PCI-DSS regulatory frameworks
-- Maintain traceability matrices linking system capabilities to regulatory controls with evidence inventory
+- Build compliance specification vaults with testable requirements mapped to FFIEC, SOC 2, GLBA, and PCI-DSS frameworks, with traceability matrices linking capabilities to regulatory controls
 
 **AI-Augmented Development & Tooling**
-- Design and operate spec-first development workflows: write specification diffs before code, with concurrent spec and code PRs and CI-triggered drift detection
-- Build AI-assisted code review pipelines using Claude Code agents on GitHub Actions, with domain-specific security review prompts for financial services
-- Create a git-backed issue tracking system with dependency graphs, handoff protocols for multi-session agent work, and DuckDB-powered analytics
-- Integrate issue tracking with Linear for sprint planning, automated story point estimation from spec requirements, and delivery health metrics reporting
-- Orchestrate parallel AI agent sessions for independent implementation tasks, with worktree isolation and structured handoff documents
+- Design spec-first development workflows where specifications are written and reviewed before code, with CI-triggered drift detection catching divergence automatically
+- Build AI-assisted code review and multi-agent orchestration tooling, with git-backed issue tracking, Linear integration, and automated delivery health metrics
 
 #### Writing Sabbatical
 *2021 – 2025*
